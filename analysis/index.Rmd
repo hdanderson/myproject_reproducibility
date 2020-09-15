@@ -8,4 +8,9 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+This is my practice workflowr website! Created as part of UChicago's qBio 
+bootcamp 2020.
+
+* [Teeth growth analysis](teeth.html).
+Teeth growth analysis works with a sample R dataset studying the effect of 
+nutrients (orange juice vs. vitamin C) in various doses on tooth size.
