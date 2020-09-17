@@ -11,6 +11,8 @@ editor_options:
 This is my practice workflowr website! Created as part of UChicago's qBio 
 bootcamp 2020.
 
+I am part of the *C. elegans* group. The next person in the group is [Patrick Cantwell](https://patrick15933.github.io/myproject_workflowr/).
+
 * [Teeth growth analysis](teeth.html).
 Teeth growth analysis works with a sample R dataset studying the effect of 
 nutrients (orange juice vs. vitamin C) in various doses on tooth size.
